@@ -37,7 +37,7 @@ Resposta baseada nos documentos
 
 
 ## Estrutura do Projeto
-
+```text
 chatbot-hospitalar-rag/
 │
 ├── data/
@@ -58,6 +58,7 @@ chatbot-hospitalar-rag/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
 
 
 
