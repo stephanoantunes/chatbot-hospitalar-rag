@@ -101,4 +101,5 @@ Os documentos utilizados são públicos e foram obtidos de fontes oficiais:
 ## Autor
 
 Stephano Douglas Antunes
+
 Projeto desenvolvido para fins educacionais e de portfólio.
